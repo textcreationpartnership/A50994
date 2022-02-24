@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Mischief of intemperance occasioned by the death of a young gentleman who shortned his days by immoderate drinking.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50994</idno>
+            <idno type="STC">Wing M2234</idno>
+            <idno type="STC">ESTC R26844</idno>
+            <idno type="EEBO-CITATION">09566643</idno>
+            <idno type="OCLC">ocm 09566643</idno>
+            <idno type="VID">43634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Mischief of intemperance occasioned by the death of a young gentleman who shortned his days by immoderate drinking.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon and are to be sold by Godfrey Bouchier,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temperance --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43634:1"/>
+            <pb facs="tcp:43634:1" rendition="simple:additions"/>
+            <p>The MISCHIEF OF Intemperance. Occaſioned by the DEATH OF A Young Gentleman, Who ſhortned his Days by Immoderate Drinking.</p>
+            <q>— Facit Indignatio Verſum.</q>
+            <q>
+               <p>Wine is a Mocker, and Strong Drink is Raging, and who<g ref="char:EOLhyphen"/>ſoever is deceiv'd thereby is not wiſe,</p>
+               <bibl>
+                  <hi>Prov. 20.</hi> v. <hi>1</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Deacon,</hi> and are to be Sold by <hi>Godfrey Bouchier,</hi> Book-Seller and Book-Binder in <hi>Peterborough,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43634:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:43634:2"/>
+            <head>THE MISCHIEF OF INTEMPERANCE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Jeremiah, 9th.</hi> Ver. <hi>1.</hi>
+                  </bibl>
+Oh that my Head were Waters, and mine Eyes a Fountain of Tears, that I might weep day and night, for the ſlain of the Daughter of my People.</q>
+            </epigraph>
+            <l>WHat though I dip my Pen in briny Tears?</l>
+            <l>I know I ſhall but merit Scoffs and Jeers;</l>
+            <l>Since he that doth God's Image blind, 'tis known,</l>
+            <l>He muſt unwillingly behold his own:</l>
+            <l>Though Reaſon tells him he ſhould waſh his Face,</l>
+            <l>Rather than thus to quarrel with his Glaſs,</l>
+            <l>Which truly repreſents him as he is;</l>
+            <l>Draw back the Curtain then, and it is this:</l>
+            <l>God ſtamp't on Man his Image, and his Feature,</l>
+            <l>That Man may own his God, and God his Creature.</l>
+            <l>But he by Sin this Image hath deface't,</l>
+            <l>Stamping thereon, the Signature of Beaſt.</l>
+            <pb n="4" facs="tcp:43634:3"/>
+            <l>And ſo his Soul below a Beaſts is ſunk,</l>
+            <l>Since no Man ever knew that Beaſts were drunk;</l>
+            <l>But if that Beaſts they ſhould be drunken, then</l>
+            <l>Men would not act like Beaſts, but Beaſts like Men;</l>
+            <l>Excepting ſinful Man, Who ever ſaw,</l>
+            <l>The Creatures deviate from Natures Law?</l>
+            <l>Frogs croak like Frogs, and pritty Birds do ſing</l>
+            <l>Their conſtant Notes, to complement the Spring:</l>
+            <l>But Man, the Darling of the God above,</l>
+            <l>The Object of His Wiſdom, Goodneſs, Love;</l>
+            <l>Who's fix't the Lamp of Reaſon in his Breaſt,</l>
+            <l>That he may follow God, and lead the Beaſt;</l>
+            <l>Heir of the Gifts of Nature, and of Grace,</l>
+            <l>By which he looks his Maker in the face,</l>
+            <l>Bearing his Impreſs printed on his Breaſt,</l>
+            <l>That being God-like, God-like may be bleſt.</l>
+            <l>'Tis he alone that doth betray his Truſt,</l>
+            <l>By being impious, and withal unjuſt:</l>
+            <l>And ſo to give the Creatures what's their Due,</l>
+            <l>They are our Preachers, and Accuſers too;</l>
+            <l>Speaking to us, as once did <hi>Balaam</hi>'s Aſs,</l>
+            <l>In ſuch like Language, and in ſuch like Phraſe,</l>
+            <l>We bear your Burdens (Men) both out and in,</l>
+            <l>But muſt we bear the Burden of your Sin?</l>
+            <l>We labour for your Needs, not your Exceſs,</l>
+            <l>And do ſupply your Wants, not Wantoneſs:</l>
+            <l>We are your Vaſſals then, and you may uſe us.</l>
+            <l>Why do you ſtrike us? Why do you abuſe us?</l>
+            <l>And by your Sin, pervert the ends of Nature,</l>
+            <l>Sining againſt your God, your ſelves your Creature.</l>
+            <l>God gave Men Feet, that they may ſtedfaſt walk,</l>
+            <l>Reaſon to guide, and Speech to grace their Talk:</l>
+            <l>But Sin transforms the Man, and makes him reel,</l>
+            <l>And where the Head ſhould ſtand, there ſtands the Heel.</l>
+            <pb n="5" facs="tcp:43634:3"/>
+            <l>The Tongue no leſs when liquored and wet,</l>
+            <l>Becomes as much unſtable as the Feet.</l>
+            <l>Since all the Chat is but an empty Tale,</l>
+            <l>Got of the Froth, and Foamings of the Ale.</l>
+            <l>Little of Chriſtian Morals here abounds,</l>
+            <l>Little of Chriſt, baſe Swearing by his Wounds.</l>
+            <l>Feuds, Clamors, Bick'rings, Frauds, and all that ſhame us,</l>
+            <l>Nothing of God, except it be <hi>God Damm-us:</hi>
+            </l>
+            <l>And thus the empty Casks do make a Noiſe,</l>
+            <l>As wanting Reaſons Ballaſt, and her Poize.</l>
+            <l>Theſe Follies do impair our Health no leſs,</l>
+            <l>Than here they do expoſe our Nakedneſs;</l>
+            <l>They dig an early Grave, prepare a Pit,</l>
+            <l>For him who leaſt of all prepares for it.</l>
+            <l>Sometimes he ſtrives his Comrades to out-brave,</l>
+            <l>And courting Death, rides gallop to a Grave.</l>
+            <l>Sometimes his angry Sword diſſects a ſpout,</l>
+            <l>By which, Death enters in, and Life goes out;</l>
+            <l>Sometimes his Steed, grudging to bear the Pack,</l>
+            <l>Both of the Sin, and Rider on his back;</l>
+            <l>Commits him to a Mercy rarely found,</l>
+            <l>Stepping between the Stirrop and the Ground.</l>
+            <l>As Men for Drink are to the Stocks confind,</l>
+            <l>For to reduce them to a ſober Mind,</l>
+            <l>Experience likewiſe tells him how he locks,</l>
+            <l>And fettereth his Feet in Gouty Stocks.</l>
+            <l>And then his pungent Dolours makes him feel,</l>
+            <l>How Pain doth take the Pleaſure by the Heel,</l>
+            <l>Who can't be wean'd from ſucking of the Tap,</l>
+            <l>But makes a Cask on's Carcaſs; 'tis his hap,</l>
+            <l>For to be tapped too, and by that Spout,</l>
+            <l>Both Life, as well as Liquor runneth out.</l>
+            <l>Sometimes the ſtiptick Liquors meet in one,</l>
+            <l>So petrifie and knead into a Stone,</l>
+            <pb n="6" facs="tcp:43634:4"/>
+            <l>Which grating on the Bladder, doth become</l>
+            <l>The only Stone that ſhapes him out a Tomb:</l>
+            <l>An Apoplexy knocks him on the head,</l>
+            <l>He's ſometimes by an <hi>Aſthma</hi> ſtrangled;</l>
+            <l>Oft in a <hi>Dropſie</hi> drown'd, as oft expires,</l>
+            <l>By ſullen, ſilent, hidden, <hi>Hectick</hi> Fires;</l>
+            <l>And ſo he doth the Devils Martyr burn,</l>
+            <l>Making his Pitcher to become his Urn:</l>
+            <l>Sometimes a <hi>Lethurgy</hi> beguiles his Reaſon,</l>
+            <l>And ſhuts him in a dark and diſmal Priſon,</l>
+            <l>Wreathing the Poppey Garland on his head,</l>
+            <l>Whoſe ſteams both Soul and Body over-ſpread;</l>
+            <l>Locking the Gates of Senſe as well as Reaſon,</l>
+            <l>And ſo the Captive dyeth in his Priſon:</l>
+            <l>Sometimes a <hi>Quinzy</hi> makes him change his Note,</l>
+            <l>Choak'd by a Grape-ſtone, ſticking in his Throat;</l>
+            <l>So by a <hi>Paralitick</hi> Fit he feels,</l>
+            <l>As Death is in his Hands, ſo at his Heels:</l>
+            <l>For ſo a Houſe that ſhakes and totters, all</l>
+            <l>Conclude, though under-propt, that it will fall:</l>
+            <l>Theſe Maladies do from our Luſts proceed,</l>
+            <l>And Vermine-like, on putrid Matter breed;</l>
+            <l>And ſo as Lice do on their Maſters feed,</l>
+            <l>Thus ſprightly Liquors often burſt the Tun,</l>
+            <l>And kills as ſure, though not ſo ſoon as Gun,</l>
+            <l>So breaks the Glaſs before the Sand be run:</l>
+            <l>So have I ſeen the Sun extend his Beams,</l>
+            <l>And by imbibing moiſt and foggy ſteams,</l>
+            <l>Contract a ſable Frontlet on his head,</l>
+            <l>And ſo at Mid-day ſteal away to Bed.</l>
+            <l>
+               <hi>Intemperance</hi> no leſs contracts a ſhrowd,</l>
+            <l>Cauſing our Sun to ſet within a Cloud;</l>
+            <l>Which too too often doth preſage, what may</l>
+            <l>Become the Fate of the ſucceeding Day.</l>
+            <pb n="7" facs="tcp:43634:4"/>
+            <l>And thus we ſteal away from human ſight,</l>
+            <l>Nor bid our ſelves good Morrow, nor good Night;</l>
+            <l>And ſo the Lamp of Nature doth expire,</l>
+            <l>Quench't by the Oyl that ſhould maintain the Fire:</l>
+            <l>Thus Men into the other State are hurl'd,</l>
+            <l>Before they know their Errand in this World;</l>
+            <l>Unfit for th' other World, unfit for this,</l>
+            <l>Unfit for Buſineſs, and unfit for Bliſs.</l>
+            <l>And ſo in both Worlds doom'd to Miſery,</l>
+            <l>Unfit to live, and more unfit to dye.</l>
+            <l>If after all, the Sinner ſtill ſurvives,</l>
+            <l>It is the Sin, and not the Man that thrives;</l>
+            <l>And then be ſure, he can't from Judgment fly,</l>
+            <l>Except his God, or elſe his Soul can dye:</l>
+            <l>Nor do theſe Charming Pleaſures, thus combine,</l>
+            <l>To wound the Body only, but the Mind;</l>
+            <l>Attempting on us what the Scriptures ſay,</l>
+            <l>That <hi>Jael</hi> once did unto <hi>Siſera;</hi>
+            </l>
+            <l>She Courted him with Words as ſoft as ſilk,</l>
+            <l>To come and drink of her Inchanted Milk;</l>
+            <l>Then cov'ring him, ſhe laid him faſt for dead,</l>
+            <l>By driving home the Nail into his Head.</l>
+            <l>Thus Pleaſures by intoxicating Charms,</l>
+            <l>Lulls us aſleep, in their bewitching Arms;</l>
+            <l>Contracting on our Heads a cloudy ſcrowle,</l>
+            <l>Then nails the Body faſt unto the Soul;</l>
+            <l>By which the Soul incurs her fatal Doom,</l>
+            <l>Craving the Body only for a Tomb:</l>
+            <l>Thus Souls do dye, by being downward preſt,</l>
+            <l>And locked faſt within the Bodies Cheſt;</l>
+            <l>Nor can they in this wretched ſtate prevail,</l>
+            <l>To move beyond the Confines of a Jayl;</l>
+            <l>Nor can they Truth from Falſehood ever know,</l>
+            <l>Nor what is Good and Evil here below,</l>
+            <l>But what the Senſes judges to be ſo.</l>
+            <pb n="8" facs="tcp:43634:5"/>
+            <l>Nor do we heed what ſhould concern us moſt,</l>
+            <l>Not conſcious to our ſelves that we are loſt:</l>
+            <l>The bodies Malady is ſoon eſpy'd,</l>
+            <l>Soon felt, and ſoon the Remedy's apply'd.</l>
+            <l>But in Diſtempers that affect the Mind,</l>
+            <l>The Party moſt concern'd, is ſadly blind,</l>
+            <l>And deadly ſick, though in appearance, well,</l>
+            <l>Sleeping ſecurely at the Gates of Hell.</l>
+            <l>Thus Man is loſt within himſelf, and can</l>
+            <l>But by a <hi>Metaphor</hi> be called Man,</l>
+            <l>Spoyl'd of his Faculties, and of his Frame,</l>
+            <l>And is but Man in <hi>Anagram</hi> and Name;</l>
+            <l>So Houſes oft are in their Ruines ſeen,</l>
+            <l>And what they are not, ſpeak what they have been.</l>
+            <l>Look what that <hi>Serpent</hi> was that did deceive,</l>
+            <l>Our Father <hi>Adam,</hi> and our Mother <hi>Eve;</hi>
+            </l>
+            <l>The ſame of tempting Pleaſure may be ſaid,</l>
+            <l>By which our ſouls are gull'd, and thus betray'd;</l>
+            <l>It is that <hi>Serpent</hi> here in Maſquerade,</l>
+            <l>Which loves in tempting Coverts for to lye,</l>
+            <l>Tracing the ſteps of all that paſſeth by;</l>
+            <l>Shewing his ſpeckled Coat, and ſpangled Skin,</l>
+            <l>Gaudy without, but Venome all within;</l>
+            <l>With creeping courtſhip, and with charming ſmiles,</l>
+            <l>With curling circles, and with twiſting wiles,</l>
+            <l>He ſteals upon us, hoping to prevail,</l>
+            <l>Firſt twining in his head, and then his tayl:</l>
+            <l>For ſo by things that lawful are, and ſmall,</l>
+            <l>W'are tempted moſt, and by the <hi>Tempter</hi> fall;</l>
+            <l>And by ſuch ſubtle and ſuch ſly Pretences,</l>
+            <l>He thus accoſts our <hi>Eve,</hi> I mean our ſenſes.</l>
+            <l>Canſt thou deny that God made all things good,</l>
+            <l>And no leſs for thy Pleaſure than thy Food?</l>
+            <l>Did not He paint the Colours in the Face,</l>
+            <l>And cauſe the Wine to ſparkle in the Glaſs?</l>
+            <pb n="9" facs="tcp:43634:5"/>
+            <l>Doth not this Apple blazon like to Gold,</l>
+            <l>Sweet to the taſte, and pleaſant to behold?</l>
+            <l>At laſt, by poyſon'd and inchanted breath,</l>
+            <l>We kiſs and cloſe, and ſport our ſelves to death;</l>
+            <l>Not dreading once which will at length prevail,</l>
+            <l>The cuſpid ſting that's ſheathed in his tayl,</l>
+            <l>Viewing the Apple in its dapled skin,</l>
+            <l>Unskilful of the Core that's wrap't within.</l>
+            <l>And thus we eat oth' Tree of Good and Evil,</l>
+            <l>Tempted by Pleaſure, termed here a Devil,</l>
+            <l>Which proves a Tree of Knowledge to our coſt,</l>
+            <l>Knowing the Evil by the Good we loſt:</l>
+            <l>So darkneſs ſets a Price upon the light;</l>
+            <l>Health is by ſickneſs known, by blindneſs, ſight.</l>
+            <l>Thus Pleaſure is that <hi>Serpent</hi> that doth tempt us,</l>
+            <l>And is that <hi>Serpent</hi> too that doth torment us;</l>
+            <l>And dooms us to his Curſe, as downward thruſt,</l>
+            <l>To creep upon our breaſts, and lick the duſt,</l>
+            <l>The froath of Luxury, and foam of Luſt;</l>
+            <l>Loathing that <hi>Manna</hi> which the <hi>Angels</hi> feed on,</l>
+            <l>Not riſing up above the Ground we tread on:</l>
+            <l>Unable for to fix our Eyes aloft,</l>
+            <l>Cent'ring on Earth, in body and in thought;</l>
+            <l>Condemned to a dark and pinching Cell,</l>
+            <l>Moving but like a Crab-fiſh in a ſhell,</l>
+            <l>The only ſtate on Earth that's termed Hell:</l>
+            <l>And thus benighted, little do we know,</l>
+            <l>From whence we come, or whither we ſhall go.</l>
+            <l>Nor do theſe Pleaſures thus bewitch the Mind,</l>
+            <l>But do attract great Evils ſtill behind;</l>
+            <l>Spending the talent of our time in vain,</l>
+            <l>Which the moſt grateful Man can't call again;</l>
+            <l>On which two vaſt Eternities depend,</l>
+            <l>Of Bliſs and Wo, and both without an end.</l>
+            <pb n="10" facs="tcp:43634:6"/>
+            <l>Time, if improv'd, will prove a Friend in ſtore,</l>
+            <l>When time will be that time ſhall be no more.</l>
+            <l>But ah! We ſee how oft the Glaſs in hand,</l>
+            <l>Deceives the Glaſs that preſſeth out the ſand;</l>
+            <l>As he that in a Ship a Voyage makes,</l>
+            <l>Knows not the ſtrimes and meaſures which he takes,</l>
+            <l>Sleep or awake, the Veſſel rideth poſt,</l>
+            <l>And unexpectedly doth make the Coaſt.</l>
+            <l>And ſo our time doth ſlide away and paſs,</l>
+            <l>Between the Looking and the Drinking-Glaſs;</l>
+            <l>Whilſt we Carouſe, and drink away our Care,</l>
+            <l>We know not where we go, nor where we are;</l>
+            <l>And ſo God's Gifts and Talents lye as dead,</l>
+            <l>Under a buſhel, barrel, and a bed.</l>
+            <l>Nor can we ſhake off this beloved ſleep,</l>
+            <l>Caus'd by the ſteams, which on our Temples creep,</l>
+            <l>'Till death comes in, and makes us quit the Room,</l>
+            <l>Calls for a Reckoning, and chides us home.</l>
+            <l>God turns the Glaſs of Time, but we do ſhake it,</l>
+            <l>And by our Follies too too often break it;</l>
+            <l>And then cry out, how ſhort our time hath been,</l>
+            <l>And yet we make it ſhorter by our ſin:</l>
+            <l>For ſo did <hi>Artaxerxes</hi> once complain,</l>
+            <l>And weep, that his <hi>Armado</hi> ſhould be ſlain;</l>
+            <l>Not one among two Millions, ſhould ſurvive</l>
+            <l>Fifty or ſixty Years, and be alive,</l>
+            <l>And yet through his own fault it was they dy'd,</l>
+            <l>As one great Sacrifice unto his Pride.</l>
+            <l>Thus Time and Life is ſpent by thoſe that love it,</l>
+            <l>And we turn Prodigals of that we covet.</l>
+            <l>God doth impart his Gifts in ample meaſure,</l>
+            <l>But Man's the Prodigal of this his treaſure,</l>
+            <l>Wrapping his Talents in a ſordid Cloath,</l>
+            <l>Which ruſty grows, through Idleneſs and Sloath;</l>
+            <pb n="11" facs="tcp:43634:6"/>
+            <l>Or ſpend them on our Luxury and Pride,</l>
+            <l>And ſo grow poor, and then our Maker chide;</l>
+            <l>As if His Bounty never had been ſhown,</l>
+            <l>Or reap'd the Crop that he had never ſown,</l>
+            <l>Or we were independent and our own.</l>
+            <l>Living, we waſte our time, and dying, crave it;</l>
+            <l>So Children eat their Cake, and cry to have it.</l>
+            <l>
+               <hi>Intemperance</hi> no leſs contracts a Curſe,</l>
+            <l>Firſt blinds the Eyes, and after picks the Purſe;</l>
+            <l>Unlocks our ſecrets, and betrays our truſt,</l>
+            <l>Makes Man that would be honeſt, be unjuſt:</l>
+            <l>Or if he muſt diſcharge the debt and ſcore,</l>
+            <l>Turns Houſe, and Wife, and Children out of door;</l>
+            <l>Chequers our Joys with intermixing Fears,</l>
+            <l>Temp'ring our Liquors with our Childrens tears;</l>
+            <l>And makes them thus their Sire, for to upbraid,</l>
+            <l>We want your drink, and you conſume our bread.</l>
+            <l>But then are Miſchiefs ſtill among the many,</l>
+            <l>Second to none, and are as great as any,</l>
+            <l>Cools our devotion, caſts off godly fear,</l>
+            <l>Voids pious counſels, and and a prudent care.</l>
+            <l>Nor can the clean and holy Dove find reſt,</l>
+            <l>Within a wet and moiſt and ſteamy breaſt;</l>
+            <l>No more than <hi>Noah</hi>'s Dove refreſhment found,</l>
+            <l>When once the waters overſpread the ground:</l>
+            <l>For ſo the flame of Heaven muſt needs expire,</l>
+            <l>When ſo much liquor's caſt upon the fire;</l>
+            <l>God's ſpirit, and the drunkards are at odds.</l>
+            <l>Who cannot keep his own, he cannot God's,</l>
+            <l>Which cannot chooſe, or e're concert in one,</l>
+            <l>Since like by like, as light by light is known.</l>
+            <l>Since Reaſon's fled, and Luſt uſurps the Throne,</l>
+            <l>And God can challenge nothing of his own,</l>
+            <pb n="12" facs="tcp:43634:7"/>
+            <l>Whoſe hidden <hi>Manna</hi> cannot yield a Guſt,</l>
+            <l>To crazed Pallats, tinctured by Luſt:</l>
+            <l>Nor can his ſoft, and ſweet, and ſilent Word,</l>
+            <l>With tumults, noiſe and clamors, e're accord;</l>
+            <l>Whoſe Light cannot be ſeen through muddy ſteams,</l>
+            <l>Nor can his Spirit mix with puddle ſtreams;</l>
+            <l>Nor can he bring the Olive Branch of Peace,</l>
+            <l>Home to the ſoul, until theſe Waters ceaſe;</l>
+            <l>Nor can the fleſh and ſpirit e're combine,</l>
+            <l>Nor can he mix his water with our wine,</l>
+            <l>Nor will he caſt his Pearls of price, to ſwine.</l>
+            <l>Thus when the Holy Spirit's fled and gone,</l>
+            <l>No wonder there ſucceeds an evil one;</l>
+            <l>In other ſins the Devil tempts us, here</l>
+            <l>'Tis we that tempt the Devil in our beer;</l>
+            <l>For ſo, when once the Good Man's gone from home,</l>
+            <l>Legion of Devils do poſſeſs the room,</l>
+            <l>Wrath, railing, lying, luſt, oaths, void of fear,</l>
+            <l>Theſe are the Fiends that will have quarter here;</l>
+            <l>If Pride be call'd the Devils Chair in faſhion,</l>
+            <l>
+               <hi>Intemperance</hi> and Sloth may be the Cuſhion,</l>
+            <l>Look as the Boats-ſwain that ſhould guide the ſhip,</l>
+            <l>When by ſome Charming <hi>Philtre</hi> lull'd aſleep,</l>
+            <l>How doth the Veſſel ſtagger, reel and knock,</l>
+            <l>Wrecking her ſelf upon ſome ſhelving Rock.</l>
+            <l>So when the Mind of Man deſign'd by God,</l>
+            <l>To rule by Reaſons ſceptre, and her rod,</l>
+            <l>Is drench't in Liquors, Riot and Exceſs,</l>
+            <l>And wrapped faſt in ſteams of drunkenneſs,</l>
+            <l>How doth the Veſſel reel, and overwhelm,</l>
+            <l>Wanting her Pilot for to guide the helm?</l>
+            <l>And look when <hi>Sampſon</hi>'s Eyes were forced out,</l>
+            <l>He was expos'd for ſport to th' Rabble Rout:</l>
+            <pb n="13" facs="tcp:43634:7"/>
+            <l>So when the Eye of Reaſon waxeth dim,</l>
+            <l>Through ſteams of wine, the Drunkard's like to him.</l>
+            <l>Apt to be ſtricken, and as apt to ſtrike,</l>
+            <l>Since in the dark, all Objects are alike.</l>
+            <l>And thus he's forc't to grind the Devils Griſt,</l>
+            <l>Who fills the hopper, and drives on the beaſt;</l>
+            <l>So have I ſeen it in our Childrens Play,</l>
+            <l>When one of them is hood-wink't in the Fray,</l>
+            <l>He ſtaggers too and fro, and little knows,</l>
+            <l>The hand from which he doth receive the blows:</l>
+            <l>'Tis here a truth, which is but play elſewhere,</l>
+            <l>Man ſpeaks and acts he knows not what, in Beer,</l>
+            <l>Stumbling at every ſtep he doth advance,</l>
+            <l>Bewildred in the Night of Ignorance;</l>
+            <l>Little perceiving who it is that blinds him,</l>
+            <l>When, all the while the Devil ſtands behind him,</l>
+            <l>Who's Author and Abettor of the ſport,</l>
+            <l>And then ſeverely doth torment him for't.</l>
+            <l>Oh curſed Maſter! He, who thus engages</l>
+            <l>To pay his Vaſſals ſtripes, inſtead of wages;</l>
+            <l>Since they moſt feel the burden of his hands,</l>
+            <l>Who moſt of all comply with his Commands:</l>
+            <l>Who will be then admitted in his School,</l>
+            <l>Muſt firſt commence a Beaſt, and then a Fool.</l>
+            <l>Can Reaſon make for that which ſpoyls our Reaſon?</l>
+            <l>And makes us no leſs guilty of High Treaſon,</l>
+            <l>Since God who ſtampt his Image on his Coin,</l>
+            <l>Finds it debaſed through Exceſs of Wine,</l>
+            <l>Which clips our ſpeach, disfigureth our face,</l>
+            <l>Which blinds the mind, and blends the ſeal of Grace,</l>
+            <l>Cauſing God's Holy Spirit to decline,</l>
+            <l>Griev'd by our Mirth, and quenched by our Wine,</l>
+            <l>Which robs us of the treaſure of our Mind,</l>
+            <l>And only leaves the broken Box behind,</l>
+            <pb n="14" facs="tcp:43634:8"/>
+            <l>Or rather Guilt, to be the only Teſt</l>
+            <l>To difference, that we are worſe than Beaſt:</l>
+            <l>Since nothing's left to ſpeak us Humane Creatures,</l>
+            <l>But inward ſin, and outward ſhape and features.</l>
+            <l>Why ſhould I drink then for to keep the round,</l>
+            <l>Tracing the Devils Circle, till I'me found</l>
+            <l>Dizzy at laſt, ſo falling on the ground:</l>
+            <l>So, by this Cadency, declare I have</l>
+            <l>Stumbled unwittingly upon a Grave;</l>
+            <l>If through a hand of Mercy I ariſe,</l>
+            <l>Though I'me alive, but then my Pleaſure dies,</l>
+            <l>Which ſplits the Veſſel on moſt dreadful ſhelves,</l>
+            <l>As wrecking others, ſo they wreck themſelves:</l>
+            <l>No ſooner are they come, but they are paſt,</l>
+            <l>And ſo by Pleaſure, is my Pleaſure loſt.</l>
+            <l>Why ſhould I court them then? Why ſhould I woo 'em?</l>
+            <l>When looking on them, I have looked through 'em;</l>
+            <l>Their out-ſides bulky, but their in-ſides hollow,</l>
+            <l>Pleaſant to meet, but ugly for to follow,</l>
+            <l>Sweet to the ſenſe, but irkſome to the mind,</l>
+            <l>Fair is the face, but crooked all behind:</l>
+            <l>So when the nimble Arrow takes her flight,</l>
+            <l>No ſooner on the wing, but out of ſight,</l>
+            <l>None can a Minute after trace her way;</l>
+            <l>And ſuch are fading Pleaſures, ſuch are they,</l>
+            <l>Swift as an Arrow, faſt away they ſend,</l>
+            <l>And are like it, ſharp-pointed at the end:</l>
+            <l>They are, and are not, both within a breath,</l>
+            <l>And <hi>Serpent</hi>-like, bite keeneſt towards death;</l>
+            <l>So ſweet, and moſt delicious things withal,</l>
+            <l>Makes, and fills up a Veſſicle of Gall;</l>
+            <l>And ſo the <hi>Spleen</hi> is held to be the ſeat,</l>
+            <l>Where Mirth and Grief do both together meet;</l>
+            <pb n="15" facs="tcp:43634:8"/>
+            <l>For ſo we often find, in preſſing Laughter,</l>
+            <l>That pain ſucceeds, or elſe a ſigh comes after;</l>
+            <l>And ſo the Wiſe-Man <hi>Socrates</hi> did reaſon,</l>
+            <l>When once his Feet were galled in the Priſon,</l>
+            <l>Then ſcratching them with pleaſure till they ſmarted,</l>
+            <l>That Pain from Pleaſure never can be parted;</l>
+            <l>For ſo I find, that when my Pleaſures gone,</l>
+            <l>They are not to be found but in a Groan,</l>
+            <l>And thus the <hi>Serpent</hi> acteth in his kind,</l>
+            <l>Not only dies, but leaves his ſting behind;</l>
+            <l>For ſo my head, or ſtomack pains me more,</l>
+            <l>Than was my pallate pleas'd the day before,</l>
+            <l>And then I muſt, bating my Pains and Coſt,</l>
+            <l>Reckon with God, as well as with my Hoaſt.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
